@@ -1,0 +1,40 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/GitHub/Traffic_Light_Controller/Simulation
+T_opt
+!s110 1751634806
+V@O_]0KFk?gPX1l4`V8=<R0
+04 7 4 work clk_div fast 0
+=1-bce92f823cb8-6867d375-3d5-974
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;10.6c;65
+vclk_div
+!s110 1751634802
+!i10b 1
+!s100 K@RFVYI:HHV8_]d:2Tl2P0
+IWBd7^g0f9Km0UWIj?m0di3
+VDg1SIo80bB@j0V0VzS_@n1
+dF:/GitHub/Integer_Clk_Division/Simulation
+w1751634796
+8F:/GitHub/Integer_Clk_Division/Simulation/clk_div.v
+FF:/GitHub/Integer_Clk_Division/Simulation/clk_div.v
+L0 1
+OL;L;10.6c;65
+r1
+!s85 0
+31
+!s108 1751634802.000000
+!s107 F:/GitHub/Integer_Clk_Division/Simulation/clk_div.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|F:/GitHub/Integer_Clk_Division/Simulation/clk_div.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
